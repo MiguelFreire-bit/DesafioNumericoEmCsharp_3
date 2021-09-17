@@ -1,0 +1,16 @@
+C:\Users\Migue\source\repos\DesafioFinal3\DesafioFinal3\bin\Debug\net5.0\DesafioFinal3.exe
+C:\Users\Migue\source\repos\DesafioFinal3\DesafioFinal3\bin\Debug\net5.0\DesafioFinal3.deps.json
+C:\Users\Migue\source\repos\DesafioFinal3\DesafioFinal3\bin\Debug\net5.0\DesafioFinal3.runtimeconfig.json
+C:\Users\Migue\source\repos\DesafioFinal3\DesafioFinal3\bin\Debug\net5.0\DesafioFinal3.runtimeconfig.dev.json
+C:\Users\Migue\source\repos\DesafioFinal3\DesafioFinal3\bin\Debug\net5.0\DesafioFinal3.dll
+C:\Users\Migue\source\repos\DesafioFinal3\DesafioFinal3\bin\Debug\net5.0\ref\DesafioFinal3.dll
+C:\Users\Migue\source\repos\DesafioFinal3\DesafioFinal3\bin\Debug\net5.0\DesafioFinal3.pdb
+C:\Users\Migue\source\repos\DesafioFinal3\DesafioFinal3\obj\Debug\net5.0\DesafioFinal3.csproj.AssemblyReference.cache
+C:\Users\Migue\source\repos\DesafioFinal3\DesafioFinal3\obj\Debug\net5.0\DesafioFinal3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\DesafioFinal3\DesafioFinal3\obj\Debug\net5.0\DesafioFinal3.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\DesafioFinal3\DesafioFinal3\obj\Debug\net5.0\DesafioFinal3.AssemblyInfo.cs
+C:\Users\Migue\source\repos\DesafioFinal3\DesafioFinal3\obj\Debug\net5.0\DesafioFinal3.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\DesafioFinal3\DesafioFinal3\obj\Debug\net5.0\DesafioFinal3.dll
+C:\Users\Migue\source\repos\DesafioFinal3\DesafioFinal3\obj\Debug\net5.0\ref\DesafioFinal3.dll
+C:\Users\Migue\source\repos\DesafioFinal3\DesafioFinal3\obj\Debug\net5.0\DesafioFinal3.pdb
+C:\Users\Migue\source\repos\DesafioFinal3\DesafioFinal3\obj\Debug\net5.0\DesafioFinal3.genruntimeconfig.cache
